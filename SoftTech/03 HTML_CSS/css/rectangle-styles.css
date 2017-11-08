@@ -1,0 +1,19 @@
+.outside{
+    border: 2px dotted blue;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.middle{
+    border: 2px dotted red;
+    border-radius: 10px;
+    padding: 5px;      
+}
+
+
+.inner{
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 5px;   
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+
+p {
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 15px;   
+    border: 2px solid black;
+    text-align: center;
+}
+
+.red-border{
+    border-color: red;
+}
+
+.green-border{
+    border-color: green;
+}
+
+.blue-border{
+    border-color: blue;
+}

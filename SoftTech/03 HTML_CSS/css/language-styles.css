@@ -1,0 +1,12 @@
+body {
+    background-color: lightgrey;
+    font-size: 24pt;
+    line-height: 1.5em;
+}
+
+.lang span{
+    background-color: darkgray;
+    border-radius: 3px;
+    border: 1px solid gray;
+    padding: 2px;
+}
