@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04e-18-DifferentIntegerSize
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04e-19-TheaThePhotographer", "04e-19-TheaThePhotographer\04e-19-TheaThePhotographer.csproj", "{ACB5F886-B32C-466E-B9A5-182DAAECA5A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04e-19-TheaThePhotographerTimeSpan", "04e-19-TheaThePhotographerTimeSpan\04e-19-TheaThePhotographerTimeSpan.csproj", "{2BBFC613-7A94-4928-B762-96899F54560C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{ACB5F886-B32C-466E-B9A5-182DAAECA5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB5F886-B32C-466E-B9A5-182DAAECA5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB5F886-B32C-466E-B9A5-182DAAECA5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBFC613-7A94-4928-B762-96899F54560C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBFC613-7A94-4928-B762-96899F54560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBFC613-7A94-4928-B762-96899F54560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBFC613-7A94-4928-B762-96899F54560C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -446,5 +452,6 @@ Global
 		{5DF0BEB0-9AAF-4F69-87C6-1B68D76F6849} = {65F45CB2-EE08-4D75-AF69-53228E3DDF21}
 		{987890D5-136C-4ABB-B66E-1346182C6E27} = {65F45CB2-EE08-4D75-AF69-53228E3DDF21}
 		{ACB5F886-B32C-466E-B9A5-182DAAECA5A5} = {65F45CB2-EE08-4D75-AF69-53228E3DDF21}
+		{2BBFC613-7A94-4928-B762-96899F54560C} = {65F45CB2-EE08-4D75-AF69-53228E3DDF21}
 	EndGlobalSection
 EndGlobal
